@@ -10,7 +10,7 @@ After **START** key **menu** is displayed:
 
 ![Menu](menu.png)
 
-### Meaning of menu items:###
+### Meaning of menu items:
 
 > -> Instructions
 
