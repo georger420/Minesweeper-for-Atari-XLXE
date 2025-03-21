@@ -58,7 +58,7 @@ Failure - some mine exploded - press any key:
 
 File **[tiindata.act.txt](tiindata.act.txt)** contains data of splash screen and instructions data. The memory of Action editor was too low, so that is the reason why it is in separate file.
 
-File **[miny12.act.txt](miny12.act.txt)** is main the program.
+File **[miny12.act.txt](miny12.act.txt)** is main program.
 
 
 
